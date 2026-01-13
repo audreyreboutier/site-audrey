@@ -1,0 +1,46 @@
+
+div {
+  width:1000px;
+  margin: 50px auto 50px;
+}
+
+img {
+  display: block;
+  margin: auto;
+  width: 80%;
+} 
+
+h1{
+font-size: 30px;
+font-family:'Poppins';
+text-align: center;
+color: #ffffff
+}
+
+h2{
+font-size: 20px;
+font-family:'Poppins';
+text-align: center;
+text-transform: capitalize;
+color: #d86c08
+}
+
+p{
+font-size: 18px;
+text-align: center;
+font-family: Helvetica, sans-serif;
+color: #ffffff;
+}
+
+a{
+display: block; 
+text-align: center;   
+margin: 20px auto 40px; 
+font-size: 20px;
+font-family: Helvetica, sans-serif;
+color: #baa404;
+}
+
+body {
+background-color: #033f3d;
+}
